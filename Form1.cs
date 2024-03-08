@@ -124,7 +124,10 @@ namespace Lab_1_WindowsForm
                     desk[x, y] = i + 1;
                     return;
                 }
+               
             }
+            timer1.Enabled = false;
+            MessageBox.Show("Поздравляем, ваш итоговый счёт: " + Convert.ToString(score));
         }
         
     }
