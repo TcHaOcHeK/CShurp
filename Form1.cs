@@ -85,7 +85,7 @@ namespace Lab_1_WindowsForm
 
         }
 
-     
+     //git))
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
