@@ -8,3 +8,13 @@ C:\Users\User\RiderProjects\Lab_1_WindowsForm\Lab_1_WindowsForm\obj\Debug\Lab_1_
 C:\Users\User\RiderProjects\Lab_1_WindowsForm\Lab_1_WindowsForm\obj\Debug\Lab_1_WindowsForm.exe
 C:\Users\User\RiderProjects\Lab_1_WindowsForm\Lab_1_WindowsForm\obj\Debug\Lab_1_WindowsForm.pdb
 C:\Users\User\RiderProjects\Lab_1_WindowsForm\Lab_1_WindowsForm\obj\Debug\Lab_1_WindowsForm.Form1.resources
+C:\Users\user\Desktop\CshurpFun\CShurp\bin\Debug\Lab_1_WindowsForm.exe.config
+C:\Users\user\Desktop\CshurpFun\CShurp\bin\Debug\Lab_1_WindowsForm.exe
+C:\Users\user\Desktop\CshurpFun\CShurp\bin\Debug\Lab_1_WindowsForm.pdb
+C:\Users\user\Desktop\CshurpFun\CShurp\obj\Debug\Lab_1_WindowsForm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CshurpFun\CShurp\obj\Debug\Lab_1_WindowsForm.Form1.resources
+C:\Users\user\Desktop\CshurpFun\CShurp\obj\Debug\Lab_1_WindowsForm.Properties.Resources.resources
+C:\Users\user\Desktop\CshurpFun\CShurp\obj\Debug\Lab_1_WindowsForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CshurpFun\CShurp\obj\Debug\Lab_1_WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CshurpFun\CShurp\obj\Debug\Lab_1_WindowsForm.exe
+C:\Users\user\Desktop\CshurpFun\CShurp\obj\Debug\Lab_1_WindowsForm.pdb
