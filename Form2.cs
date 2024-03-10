@@ -20,8 +20,14 @@ namespace Lab_1_WindowsForm
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
+            
         }
-
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form3 fr3 = new Form3();
+            fr3.Show();
+            Hide();
+        }
         private void Form2_Load(object sender, EventArgs e)
         {
 
@@ -32,9 +38,6 @@ namespace Lab_1_WindowsForm
 
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }

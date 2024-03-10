@@ -31,3 +31,4 @@ C:\Users\user\Desktop\CshurpFun\CShurp\bin\Debug\Lab_1_WindowsForm.pdb
 C:\Users\User\RiderProjects\CShurp\obj\Debug\Lab_1_WindowsForm.Form2.resources
 C:\Users\user\Desktop\CshurpFun\CShurp\obj\Debug\Lab_1_WindowsForm.Form2.resources
 C:\Users\user\Desktop\CshurpFun\CShurp\obj\Debug\Lab_1_WindowsForm.Form3.resources
+C:\Users\User\RiderProjects\CShurp\obj\Debug\Lab_1_WindowsForm.Form3.resources
