@@ -28,3 +28,4 @@ C:\Users\user\Desktop\CshurpFun\CShurp\obj\Debug\Lab_1_WindowsForm.pdb
 C:\Users\user\Desktop\CshurpFun\CShurp\bin\Debug\Lab_1_WindowsForm.exe.config
 C:\Users\user\Desktop\CshurpFun\CShurp\bin\Debug\Lab_1_WindowsForm.exe
 C:\Users\user\Desktop\CshurpFun\CShurp\bin\Debug\Lab_1_WindowsForm.pdb
+C:\Users\User\RiderProjects\CShurp\obj\Debug\Lab_1_WindowsForm.Form2.resources

@@ -128,6 +128,9 @@ namespace Lab_1_WindowsForm
             }
             timer1.Enabled = false;
             MessageBox.Show("Поздравляем, ваш итоговый счёт: " + Convert.ToString(score));
+            Form2 fr2 = new Form2();
+            fr2.Show();
+            this.Close();
         }
         
     }
