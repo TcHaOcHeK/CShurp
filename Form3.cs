@@ -21,7 +21,7 @@ namespace Lab_1_WindowsForm
 
         public void AddDLL( int setting = 1)
         {
-            
+            Form1.slog = setting;
         }
         public Form3()
         {

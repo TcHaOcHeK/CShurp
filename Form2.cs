@@ -5,10 +5,14 @@ namespace Lab_1_WindowsForm
 {
     public partial class Form2 : Form
     {
+        
+
         public Form2()
         {
             InitializeComponent();
         }
+
+        
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -29,16 +33,6 @@ namespace Lab_1_WindowsForm
             Hide();
         }
         
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
        
     }
 }

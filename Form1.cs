@@ -13,6 +13,8 @@ namespace Lab_1_WindowsForm
 {
     public partial class Form1 : Form
     {
+        public static int slog = 0;
+        
         const int coll = 8, row = 8;
         Random rand = new Random();
         Color[] pall = { Color.Red, Color.Green, Color.Yellow, Color.Blue };
@@ -28,6 +30,7 @@ namespace Lab_1_WindowsForm
             dataGridView1.RowCount = row;
             col = rand.Next(4);
             panel1.BackColor = pall[col];
+            timer1.Interval = 1000 / slog;
         }
 
         public int ThinkColor(int y, int x, int color,  int count = 0)
@@ -68,7 +71,7 @@ namespace Lab_1_WindowsForm
             
             for (int i = 0; i < coll; i++)
                 for (int j = 0; j < row; j++)
-                    if (board[i, j] == 1 && TC >= 3)
+                    if (board[i, j] == 1 && TC >= 2 + slog)
                     {
                         dataGridView1[i, j].Style.BackColor = Color.White;
                         desk[i, j] = 0;

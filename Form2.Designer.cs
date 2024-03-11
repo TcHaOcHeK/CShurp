@@ -76,7 +76,6 @@ namespace Lab_1_WindowsForm
             this.Controls.Add(this.button1);
             this.Name = "Form2";
             this.Text = "Цведратики";
-            this.Load += new System.EventHandler(this.Form2_Load);
             this.ResumeLayout(false);
         }
 
