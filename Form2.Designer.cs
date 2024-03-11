@@ -42,7 +42,7 @@ namespace Lab_1_WindowsForm
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(296, 143);
             this.button1.TabIndex = 0;
-            this.button1.Text = "������";
+            this.button1.Text = "New game";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -62,7 +62,7 @@ namespace Lab_1_WindowsForm
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(296, 86);
             this.button3.TabIndex = 3;
-            this.button3.Text = "���������";
+            this.button3.Text = "Settings";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -75,10 +75,9 @@ namespace Lab_1_WindowsForm
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "Form2";
-            this.Text = "����";
+            this.Text = "Цведратики";
             this.Load += new System.EventHandler(this.Form2_Load);
             this.ResumeLayout(false);
-
         }
 
         private System.Windows.Forms.Button button2;

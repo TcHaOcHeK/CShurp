@@ -28,6 +28,7 @@ namespace Lab_1_WindowsForm
             fr3.Show();
             Hide();
         }
+        
         private void Form2_Load(object sender, EventArgs e)
         {
 
