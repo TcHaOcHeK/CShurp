@@ -13,7 +13,7 @@ namespace Lab_1_WindowsForm
 {
     public partial class Form1 : Form
     {
-        public static int slog = 0;
+        public static int slog = 1;
         
         const int coll = 8, row = 8;
         Random rand = new Random();
